@@ -1,0 +1,171 @@
+Abandonment	abandoned.a forget.v abandonment.n abandon.v leave.v	WHAT
+Access_scenario	_	NONE
+Actually_occurring_entity	actual.a	HOW
+Aggregate	squad.n package.n quintet.n body.n sextet.n team.n colony.n huddle.n flock.n quartet.n class.n multitude.n herd.n clump.n brood.n stand.n collection.n bevy.n population.n party.n assembly.n pack.n slew.n circle.n gaggle.n crowd.n assemblage.n variety.n mob.n family.n bunch.n cohort.n horde.n host.n posse.n swarm.n tribe.n set.n school.n army.n assortment.n heap.n flotilla.n batch.n clutch.n crop.n covey.n group.n coterie.n corps.n repertory.n gang.n community.n crew.n multiplicity.n cluster.n legion.n clique.n throng.n claque.n shoal.n band.n harem.n trio.n repertoire.n passel.n	WHO
+Amounting_to	total.n amount.v tally.n total.a total.v number.v	WHAT
+Appellations	captain.n officer.n general.n	WHO
+Appointing	name.v accredited.a designate.v finger.v appoint.v accredit.v tap.v	EVENT
+Arithmetic	_	NONE
+Attempting_scenario	_	NONE
+Attending	attendance.n attend.v go_(to).v	WHAT
+Attributes	_	NONE
+Become_silent	quiet.v hush_up.v quieten.v silence.v quiet_down.v not_another_word.v hold_tongue.v stow_it.v quiet.n shush.v pipe_down.v hush.v sh.intj shut_up.v button_lip.v	WHAT
+Becoming_detached	unhook.v decouple.v unhinge.v detach.v	WHAT
+Becoming_dry	exsiccate.v dry.v dry up.v dehydrate.v	WHAT
+Becoming_separated	divide.v split.v separate.v	WHAT
+Being_included	_	WHAT
+Being_necessary	needed.a essential.a required.a requirement.n necessary.a indispensable.a necessity.n basic.a	WHY
+Being_obligated	must.v mission.n ought to.v got_to.v contract.n obligated.a oughta.v assignment.n hafta.v responsibility.n duty.n have to.v obligation.n commission.n task.n should.v gotta.v job.n bound.a	WHY
+Being_obligatory	mandatory.a obligatory.a incumbent.a behoove.v compulsory.a binding.a	WHY
+Being_strong	strong.a impregnable.a	HOW
+Boundary	edge.n line.n border.n boundary.n	WHAT
+Breaking_apart	snap.v fragment.v splinter.v break_apart.v break down.v shatter.v break.v	WHAT
+Breaking_off	snap.v chip.v break.v	WHAT
+Cardinal_numbers	hundred.num fifteen.num seventy-four.num twenty-one.num six.num thirty.num score.n twelve.num fourteen.n twenty-five.num billion.num ninety.num two.num 1000.num pair.n million.num eight.num 6500.num 450.num brace.n fifty.num sixty.num seventy.num zero.num ten.num fifty-two.num five.num 400.num two hundred.num 1200.num four.num one.num forty.num three.num twenty.num dual.a seven.num five hundred.num couple.n	HOW
+Causation_scenario	_	WHAT
+Cause_emotion	affront.v concern.v offensive.a insult.v offense.n offend.v affront.n insult.n	WHAT
+Cause_to_make_progress	modernization.n perfect.v develop.v mature.v gains.n development.n improved.a improve.v	WHAT
+Cause_to_start	kindle.v engender.v generate.v actuate.v stimulate.v stir up.v create.v set off.v spark.v prompt.v call forth.v bring about.v arouse.v instigate.v provoke.v motivate.v elicit.v incite.v produce.v	WHAT
+Change_of_phase_scenario	_	WHAT
+Change_of_state_scenario	_	WHAT
+Change_operational_state	activate.v turn off.v cut off.v shut off.a deactivate.v turn on.v cut.v boot.v	WHAT
+Change_position_on_a_scale	increase.n edge.v explosion.n shift.v swell.v growing.a double.v hike.n increase.v fall.n shift.n soar.v fluctuate.v dip.v gain.n diminish.v decrease.v swing.v climb.v decrease.n rise.v drop.v fall.v explode.v skyrocket.v growth.n decline.n increasingly.adv rocket.v move.v dwindle.v rise.n jump.v tumble.v escalation.n gain.v plummet.v mushroom.v balloon.v tumble.n triple.v reach.v advance.v grow.v decline.v slide.v fluctuation.n	WHAT
+Cognitive_connection	linked.a associated.a tied.a connected.a identify with.v have_to_do_(with).v relationship.n related.a	WHY
+Coincidence	chance.n random.a happen.v accident.n randomly.adv chance.a chance.v coincidence.n happenstance.n	WHAT
+Come_together	come together.v meet.v gather.v gang together.v congregate.v band together.v throng.v amass.v	WHAT
+Commemorative	April Fool's Day.n Passover Eve.n Christmas Day.n Labor Day.n birthday.n Boxing Day.n Armistice Day.n	WHAT
+Commerce_scenario	purchaser.n vendor.n price.n seller.n goods.n buyer.n supply side.n retailer.n commerce.n trafficker.n	WHAT
+Commutative_process	multiplication.n addition.n multiply.v add.v	WHAT
+Commutative_statement	product.n times.n sum.n	WHAT
+Containment	_	WHAT
+Contingency	depends.v independent.a function.n independence.n factor.n hang_((on)).v depend.v dependent.a determine.v turn.v variable.n dependence.n hinge.v	WHAT
+Corroding	rust.v corrode.v	WHAT
+Crime_scenario	_	WHAT
+Delimited_state_scenario	_	WHAT
+Destiny	the breaks.n doom.n fate.n lot.n predestined.a kismet.n doomed.a in_the_cards.adv stars.n fortune.n destiny.n destined.a fated.a	WHY
+Detaching	untie.v unhook.v unfasten.v detach.v unchain.v unmoor.v unhitch.v	WHAT
+Dimension	weight.n length.n work.n broad.a weigh.v breadth.n area.n tall.a depth.n width.n measure.v circumference.n high.a long.a thick.a around.adv wide.a height.n deep.a across.adv	WHERE
+Direction	east.adv right.adv down.adv south.adv left.adv forward.adv north.adv west.n south.n up.adv east.n outward.adv	WHERE
+Domain	emotionally.adv psychologically.adv in terms.prep financially.adv legally.adv geographically.adv culturally.adv socially.adv historically.adv economically.adv	HOW
+Domination	_	WHAT
+Dunking	dip.v dunk.v	WHAT
+Electricity	current.n electric.a electrical power.n electric power.n energy.n electrical.a electricity.n photoelectric.a photoelectricity.n hydroelectric.a hydroelectricity.n juice.n power.n	WHAT
+Emitting	emit.v exhale.v excrete.v void.v exude.v give off.v discharge.v secrete.v radiate.v	WHAT
+Emotions	_	WHAT
+Employee's_scenario	_	WHAT
+Employer's_scenario	_	WHAT
+Employment_scenario	_	WHAT
+Encounter	stumble.v encounter.v	WHAT
+Entity	item.n entity.n	WHAT
+Evidence	proof.n show.v evince.v corroborate.v prove.v attest.v testify.v credence_((lend)).n verify.v illustrate.v indicate.v suggest.v point to.v reveal.v evidence.v disprove.v imply.v argument.n tell.v demonstrate.v substantiate.v mean.v confirm.v argue.v from.prep evidence.n contradict.v support.v	WHY
+Exemplariness	exemplary.a prototypical.a	HOW
+Exercising	exercise.v exercise.n work out.v	WHAT
+Expansion	contraction.n expand.v shrink.v lengthen.v enlarge.v swell.v inflate.v enlargement.n explosive.a contract.v dilate.v grow.v expansion.n stretch.v	WHAT
+Experiencer_focus	fear.v regret.n satisfied.a love.v nervous.a feverishly.adv envy.v adoration.n comfort.n mourn.v pity.n detest.v happily.adv pity.v abominate.v grief-stricken.a irritated.a upset.a fazed.a worked up.a worried.a satisfaction.n resent.v taken.a feverish.a fed up.a rue.v like.v solace.n despair.v dissatisfied.a loathe.v hatred.n hate.v abhorrence.n dislike.v rueful.a agape.a dread.v unfazed.a detestation.n pleasure.n adore.v abhor.v dislike.n envy.n nettled.a grieve.v antipathy.n fulfilled.a relish.n compassion.n loathing.n empathy.n resentment.n delight.v cool.a calm.a intimidated.a regret.v desperation.n fulfillment.n fond.a interested.a apprehensive.a despise.v	HOW
+Finish_game	win.v lose.v	WHAT
+First_experience	first.adv	HOW
+Forgoing	refrain.v abstain.v skip.v abstinence.n abstention.n do_without.v forbear.v forego.v forbearing.a forbearance.n go_without.v	HOW
+Getting_scenario	_	WHAT
+Getting_vehicle_underway	pull_(out).v take_(off).v cast off.v launch.v weigh anchor.v lift_(off).v	WHAT
+Gradable_attributes	_	HOW
+Ground_up	pulverized.a milled.a flaked.a shredded.a grated.a crumbled.a granulated.a powdered.a ground.a crushed.a	WHAT
+Growing_food	grow.v raise.v	WHAT
+Guest_and_host	guest.n host.n	WHO
+Heat_potential	toasty.a warm.a	WHAT
+History_scenario	_	WHEN
+Image_schema	_	WHAT
+Importance	major.a importance.n vital.a serious.a pivotal.a significant.a count.v import.n main.a decisive.a crucial.a acute.a landmark.n considerable.a fundamental.a key.a significance.n instrumental.a important.a critical.a epic.a seriously.adv	HOW
+Inchoative_attaching	moor.v agglutinate.v fasten.v attach.v stick.v take hold.v bind.v	WHAT
+Inchoative_change_of_temperature	cool off.v heat.v refrigerate.v warm.v reheat.v chill.v cool.v	WHAT
+Inclusion_scenario	_	WHAT
+Increment	another.a further.a more.n additional.a other.a another.n other.n more.a	HOW
+Influence_of_event_on_cognizer	guide.v influence.n influence((mass)).n influential.a influence.v	_
+Information	info.n intelligence.n data.n dope.n skinny.n details.n dirt.n intel.n information.n scoop.n straight dope.n	HOW
+Instance	case.n specimen.n example.n instance.n	WHAT
+Intoxicants	codeine.n coke.n snuff.n dope.n hashish.n crack.n peyote.n alcohol.n tranquillizer.n tobacco.n hallucinogen.n marijuana.n amphetamine.n weed.n ketamine.n mescaline.n LSD.n downer.n morphine.n upper.n opium.n grass.n methamphetamine.n speed.n ecstasy.n drug.n nicotine.n pot.n barbiturate.n cocaine.n cannabis.n heroin.n freebase.n sedative.n inhalant.n acid.n	WHAT
+Invasion_scenario	_	WHAT
+Knot_creation_scenario	_	WHAT
+Labor_product	oeuvre.n work.n	_
+Leadership	prime minister.n imam.n dictator.n president_(political).n vice-president_(non-political).n governor.n secretary.n chairperson.n vice-president_(political).n lead.v crown prince.n commandant.n preside.v general.n director.n legislature.n administer.v boss.n chairman.n caliph.n vizier.n prince.n principal.n sheik.n high-priest.n presidential.a legislator.n baron.n congressman.n vice-captain.n spearhead.v monarch.n tsar.n charge.n lawmaker.n suzerain.n tsarina.n authority.n vice-chairman.n command.n duchess.n command.v official.n khedive.n headmaster.n overlord.n head.v drug lord.n king.n mogul.n diplomat.n sovereign.n officer.n run.v doyen.n chief executive officer.n shah.n director general.n commander.n kaiser.n leader.n mayor.n pasha.n rector.n premier.n govern.v CEO.n captain.n queen.n viceroy.n sultan.n rule.n power_((rule)).n president_(non-political).n senate.n major general.a empress.n chieftain.n administration.n bishop.n chief.n government.n representative.n ruler.n regime.n vice-principal.n doyenne.n power_((govt)).n leadership.n satrap.n maharaja.n rule.v khan.n emperor.n minister.n head.n reign.v executive.n	_
+Location_in_time	date.n time.n	WHEN
+Long_or_short_selling	sell long.v sell short.v	HOW
+Lose_possession_scenario	_	WHAT
+Losing	lose.v misplace.v	WHAT
+Losing_someone	lose.v	WHAT
+Losing_track_of	_	WHAT
+Losing_track_of_perceiver	lose.v	WHAT
+Losing_track_of_theme	lose.v	WHAT
+Make_possible_to_do	let.v allow.v permit.v	HOW
+Means	procedure.n approach.n course_of_action.n by.prep tactic.n means.n mechanism.n on.prep recipe_((cooking)).n nuts_and_bolts.n way.n technique.n method.n modus_operandi.n process.n	HOW
+Measure_scenario	_	WHAT
+Measures	_	WHAT
+Medium	in.prep	WHERE
+Meet_with_response	meet.v	WHAT
+Mental_activity	_	WHAT
+Mental_stimulus_stimulus_focus	engrossing.a enthralling.a captivating.a fascinating.a absorbing.a interesting.a	HOW
+Mention	mention.v	WHAT
+Mining	_	WHAT
+Motion	circle.v swing.v spiral.v drift.v roll.v go.v fly.v zigzag.v float.v wind.v coast.v travel.v move.v glide.v snake.v blow.v meander.v swerve.v soar.v undulate.v slide.v weave.v	WHAT
+Motion_scenario	_	WHAT
+Moving_in_place	quake.n temblor.n swing.v vibrate.v spin.v judder.v swing.n wave.v earthquake.n roll.v flop.v rotate.v quiver.v turn.v quiver.n twirl.v shake.v rock.v	WHAT
+Non-commutative_process	division.n divide.v subtraction.n subtract.v take away.v	WHAT
+Non-commutative_statement	difference.n quotient.n minus.prep	WHAT
+Objective_influence	impact.v impact.n influence.n affect.v influence.v effect.n	WHAT
+Opinion	take.n hunch.n believe.v have feeling.v feel.v expect.v view.n figure.v opinion.n belief.n think.v suppose.v hold.v	_
+Optical_image	shadow.n image.n silhouette.n	_
+Origin	chinese.a indian.a roman.a swiss.a portuguese.a iraqi.a colombian.a turkish.a origin.n jamaican.a canadian.a jordanian.a american.a irish.a italian.a greek.a iranian.a assyrian.a french.a finnish.a egyptian.a cuban.a ottoman.a european.a dutch.a russian.a originate.v national.n of.prep japanese.a national.a saudi.a syrian.a from.prep vietnamese.a	WHO
+Pattern	formation.n pattern.n	WHAT
+People	woman.n human.n chap.n people.n dude.n person.n gentleman.n folks.n individual.n un.n man.n girl.n lady.n fellow.n human_being.n guy.n	WHO
+Perception	_	WHAT
+Performing_arts	play.n music.n performance.n	WHAT
+Physical_artworks	poster.n photograph.n picture.n diagram.n statue.n sculpture.n drawing.n painting.n statuette.n photo.n bronze.n image.n	WHAT
+Placing_scenario	_	WHAT
+Popularity	cool.a in.a popular.a	HOW
+Possession	have got.v belong.v lack.n lack.v want.v assets.n custody.n lacking.a property.n own.v have.v possess.v belongings.n possession_of_goods.n want.n effects.n possession.n wanting.a owner.n definite_possession.n possessor.n ownership.n	WHAT
+Possibilities	possibility.n use.n alternative.n way.n choice.n option.n future.n chance.n	HOW
+Possibility	can.v	HOW
+Process	process.n	WHAT
+Proper_reference	proper.a self.n	WHO
+Quantity	billions.n all.a amount.n many.a millions.n heap.n avalanche.n few.a flood.n scores.n ounce.n deluge.n plethora.n pinch.n myriad.n modicum.n quantity.n mass.n number.n a few.art few.n scads.n raft.n touch.n degree.n mountain.n measure.n hundreds.n abundance.n dozens.n several.n ton.n several.a trickle.n dose.n a bit.a torrent.n both.a any.a fair.a load.n no.a wave.n a lot.n pile.n numerous.a many.n smattering.n mite.n multiple.a stream.n handful.n thousands.n shitload.n oodles.n a little.n	HOW
+Race_descriptor	black.a hispanic.a white.a color.n asian.a yellow.a	WHO
+Rank	degree.n rank.n level.n	WHAT
+Ranked_expectation	mere.a whole.a entire.a	HOW
+Receive_visitor_scenario	_	WHAT
+Reciprocality	_	WHAT
+Reciprocality_focus	_	WHAT
+Reciprocality_subordinate_event	_	WHAT
+Reference_text	cf.v qv.v see.v	WGAT
+Relation	relation.n	WHAT
+Removing_scenario	_	WHAT
+Repayment	repay.v repayment.n pay back.v	WHAT
+Requirement_scenario	_	WHAT
+Residence	camped.a live.v room-mate.n reside.v dwell.v camp.n camp.v bivouac.v squatter.n occupant.n dweller.n squat.v resident.n camper.n occupy.v shack up.v lodge.v stay.v inhabit.v room.v inhabitant.n bivouac.n	WHERE
+Resolve_attempt_scenario	_	WHAT
+Response_scenario	_	WHAT
+Ride_vehicle	coast.v ride.v hitchhike.v bus.v taxi.v fly.v sail.v jet.v flight.n take.v cruise.v ride.n cruise.n	WHAT
+Risk_scenario	_	WHAT
+Satisfying	satisfy.v	_
+Set_of_interrelated_entities	system.n	WHERE
+Simple_name	word.n term.n	WHAT
+Size	huge.a large.a enormous.a big.a small.a little.a tiny.a	HOW
+Sleep_wake_cycle	_	WHEN
+Soaking_up	sponge.v absorb.v soak up.v	WHAT
+Source_of_getting	source.n	WHERE
+Source_path_goal	_	WHERE
+State	_	HOW
+Stimulus_focus	astonishing.a formidable.a poignant.a electrifying.a amazing.a enthralling.a enchanting.a pleasing.a intriguing.a maddening.a stirring.a stinging.a appalling.a vexatious.a heartbreaking.a annoying.a mind-boggling.a chilling.a hair-raising.a gripping.a invigorating.a exasperating.a thorny.a shocking.a tear-jerking.a unexciting.a bewitching.a rest.n side-splitting.a fascinating.a discouraging.a surprising.a pacifying.a encouraging.a delight.n earth-shattering.a charming.a aggravating.a boring.a beguiling.a uplifting.a irksome.a distressing.a unpleasing.a pitiful.a offensive.a troubling.a stimulating.a insulting.a baffling.a frightening.a enjoyable.a sickening.a funny.a revolting.a repellent.a galling.a depressing.a spine-tingling.a consoling.a rousing.a stupefying.a terrifying.a annoyance.n empty.a charm_((mass)).n worrying.a disconcerting.a dull.a breathtaking.a spine-chilling.a vexation.n heartening.a perplexing.a solemn.a rich.a recreation.n unpleasant.a bewildering.a tiresome.a exciting.a embittering.a disheartening.a dismaying.a relaxing.a heart-rending.a mind-numbing.a unnerving.a disagreeable.a satisfying.a amusing.a absorbing.a unfunny.a mystifying.a relaxation.n delightful.a abominable.a discomfiting.a comical.a gratifying.a agonizing.a heart-warming.a engrossing.a soothing.a calming.a devastating.a confusing.a jaw-dropping.a traumatic.a comforting.a unfulfilling.a blood-curdling.a mortifying.a disorientating.a pleasurable.a vexing.a tormenting.a worrisome.a cheering.a displeasing.a charm_((count)).n humorous.a pleasant.a ghastly.a alienating.a full.a hilarious.a infuriating.a touching.a disappointing.a striking.a aggravation.n droll.a heart-stopping.a distasteful.a troublesome.a disillusioning.a sobering.a astounding.a disturbing.a entertaining.a nerve-racking.a tiring.a agreeable.a color.n irritating.a disgusting.a alarming.a reassuring.a sad.a intimidating.a traumatising.a nice.a scary.a cool.a captivating.a white-knuckle.a unsettling.a bothersome.a placating.a pathetic.a harrowing.a discomforting.a upsetting.a exhilarating.a fulfilling.a stressful.a saddening.a impressive.a thrilling.a jolly.a embarrassing.a tedious.a suspenseful.a startling.a enraging.a dreadful.a	HOW
+Subjective_temperature	freezing.a burn up.v hot.a cold.a cool.a warm.a	HOW
+Successful_action	do the trick.v unsuccessful.a do it.v success.n succeed.v successful.a fail.v manage.v failed.a go wrong.v	HOW
+Take_place_of	replacement.n replace.v take place.v do duty.v substitute.v succeed.v	WHAT
+Text_scenario	_	WHAT
+Thwarting	stop.v foil.v forestall.v counter.v frustrate.v derail.v prevent.v thwart.v preclude.v stymie.v hamstring.v	WHAT
+Timespan	time.n day.n	WHEN
+Topic	concern.v regarding.prep cover.v theme.n subject.n concerning.prep treat.v discuss.v regard.n about.prep address.v regard.v topic.n dwell_(on).v on.prep	WHAT
+Transfer_scenario	_	WHAT
+Try_defendant	try.v	WHAT
+Type	strain.n type.n form.n breed.n shade.n sort.n kind.n class.n ilk.n make.n race.n variety.n brand.n version.n	HOW
+Undergo_change	metamorphosis.n shift.v shift.n plummet.v transformation.n swing.v veer.v change.v changeable.a turn.v change.n transition.n	WHAt
+Version_sequence	final.a preliminary.a working.a draft.n rough.a initial.a	HOW
+Visiting_scenario	_	WHAT
+Visitor_scenario	_	WHAT
+Weather	lowering sky.n rainstorm.n fair.a snowstorm.n hailstorm.n snowy.a storm.v blizzard.n stormy.a sunshine.n climate.n storm.n thunderstorm.n weather.n	WHAT
